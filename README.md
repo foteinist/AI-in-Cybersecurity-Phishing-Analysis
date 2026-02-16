@@ -25,7 +25,7 @@ This research study explores the role of Generative AI in cybersecurity knowledg
 ### Academic Context
 University research project (Spring Semester 2025)
 
-## 📄 Full Paper
+## Full Paper
 
 You can read the full research paper here:
 [Download PDF](paper/AI_in_Cybersecurity_Paper.pdf)
